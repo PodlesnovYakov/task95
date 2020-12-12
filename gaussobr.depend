@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607529162 source:c:\users\30041203\desktop\c++ projects\gaussobr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1607788712 source:c:\users\30041203\onedrive\Рабочий стол\gaussobr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
